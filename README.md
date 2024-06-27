@@ -1,5 +1,3 @@
-<h2 align="left">Hi👋! My name is Atharva and I'm a student, at MIT-WPU</h2>
-
 ###
 
 <div align="center">
